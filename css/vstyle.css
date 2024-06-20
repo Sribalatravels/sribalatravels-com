@@ -1,0 +1,158 @@
+
+BODY {
+	
+background-image: url('../images/back.gif');
+
+background-position: 0% 0%; MARGIN-TOP: 0px; 
+MARGIN-RIGHT: 0px; background-color:transparent; background-repeat:repeat; background-attachment:scroll 
+}
+
+#minus
+{
+display: none
+}
+
+#con_cities
+{
+margin-left: 40px;
+FONT-FAMILY: Arial; FONT-SIZE: 12px; 
+}
+
+
+#bodytext
+{
+MARGIN-TOP: 60px;
+FONT-FAMILY: Arial; FONT-SIZE: 12px; 
+}
+
+
+.tourpkgtxt
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; COLOR: #333333; FONT-WEIGHT: bold;
+}
+
+
+a.bodylink:link 
+{
+FONT-FAMILY: Arial; COLOR: #3366cc;; FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-WEIGHT: bold; 
+}
+
+a.bodylink:visited
+{
+FONT-FAMILY: Arial; COLOR: #3366cc; FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-WEIGHT: bold; 
+}
+a.bodylink:hover
+{
+FONT-FAMILY: Arial; COLOR: #3366cc; FONT-SIZE: 12px; TEXT-DECORATION: underline; FONT-WEIGHT: bold; 
+}
+a.bodylink:active
+{
+FONT-FAMILY: Arial; COLOR: #3366cc; FONT-SIZE: 12px; TEXT-DECORATION: none; FONT-WEIGHT: bold; 
+}
+
+
+.sm
+{
+position:relative;
+top: 20px;
+}
+
+TEXTAREA
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; color: #666666;
+}
+
+INPUT
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px;
+}
+
+SELECT
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; 
+}
+
+TD
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; 
+}
+
+TD.tourdesc
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; background-color: #dedeb4; 
+}
+
+TD.tourimg
+{
+FONT-FAMILY: Arial; FONT-SIZE: 12px; background-color: #dedeb4; 
+}
+
+TABLE.tp TD 
+{
+	line-height: 1.5;
+	font-size: 11px;
+}
+	
+
+TD a
+{
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: normal;
+	color: #06F;
+	font-size: 10px;
+
+
+}
+
+TABLE.tourpkgs TD
+{
+	line-height: 1.5;
+	font-size: 11px;
+}
+
+h3
+{
+	color: #FF3433;
+}
+
+.tourhead
+{
+	color: #390;
+	font-weight: bold;
+}
+
+#conus_info
+{
+float: left;
+margin-left: 30px;
+margin-top: 50px;
+
+color: #34393f;
+font-family: "Trebuchet MS", Arial;
+font-size: 16px;
+}
+#oth_ser 
+{
+float: left;
+margin-left: 30px;
+margin-top: 50px;
+
+}
+
+#oth_ser a{
+color: #34393f;
+font-family: "Trebuchet MS", Arial;
+font-size: 16px;
+font-weight: normal;
+text-decoration: none;
+}
+
+#oth_ser a:hover{
+color: #cc1130;
+}
+
+H2
+{
+ color: #c90b2a;
+ font-family: "Trebuchet MS", Arial;
+ }
